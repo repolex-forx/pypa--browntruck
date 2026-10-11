@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/pypa/browntruck",
+  "@type": "gh:Repository",
+  "gh:name": "browntruck",
+  "gh:owner": "pypa",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/pypa/browntruck/commit/8c6db1bb2daa565c28c857e00c55fffec2626efa",
+      "git:hexsha": "8c6db1bb2daa565c28c857e00c55fffec2626efa",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}

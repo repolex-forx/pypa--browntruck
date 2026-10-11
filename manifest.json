@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "pypa",
+  "repo": "browntruck",
+  "versions": [
+    {
+      "commit": "8c6db1bb2daa565c28c857e00c55fffec2626efa",
+      "parsed_at": "2026-10-11T09:16:15.728473+00:00",
+      "filetree": "filetree/8c6db1bb2daa565c28c857e00c55fffec2626efa.nq.gz",
+      "blobs": [
+        "blob/91f16ae3bf973f3198d047b79fd73501bb881fda.nq.gz",
+        "blob/8dada3edaf50dbc082c9a125058f25def75e625a.nq.gz",
+        "blob/e76113b48d064cf85948d7753ab2ca3c39e40c2f.nq.gz",
+        "blob/f8803e5d384907e71602f65c8097922eda72c52d.nq.gz",
+        "blob/5faa545eae38396eaee32d408a1e4c41c930e370.nq.gz",
+        "blob/b40c44bcf116220ecdec203ff7ee9efb3f4c5ff6.nq.gz",
+        "blob/1b1307e69c12e936d1b91f18e4a440a5d3c3fa53.nq.gz",
+        "blob/d14446d9388530344111e3f9ee77324b5a0d231e.nq.gz",
+        "blob/f3ac32e3debe76316ace8af46014efbafc9835b8.nq.gz",
+        "blob/c6f7782f61975eb26db83a0e0f32e62ec86d4b1e.nq.gz",
+        "blob/fd00253afbeb1186d87e7fd8632c097368bb632a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
