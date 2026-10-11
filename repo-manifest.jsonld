@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pypa/browntruck/commit/8c6db1bb2daa565c28c857e00c55fffec2626efa",
       "git:hexsha": "8c6db1bb2daa565c28c857e00c55fffec2626efa",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
